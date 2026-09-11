@@ -3379,7 +3379,7 @@ aea55e42c4436236278e5692d3dcbcbe5fe6ce0b;DAEMON Tools Lite supplychain compromis
 
 b81a4e1fab9fc4e404d57224fe71e2c143aa93942bd46998789bdc944a7870c7;Virtualizor Compromise IOCs https://lowendtalk.com/discussion/220625/urgent-virtualizor-compromised-31st-aug/p1
 
-# crisp-worker-rig / Prime Scanner Go WordPress backdoor toolkit (SCV 4.5.3, EtherHiding C2) 2026-09-11
+# crisp-worker-rig / Prime Scanner Go WordPress backdoor toolkit (SCV 4.5.3, EtherHiding C2) 2026-09-11 https://github.com/rwillmann/crisp-worker-rig-investigation
 856ee9bcbef6de5a94c4b39b40d652dd0fd4f49d495db88a1a293cb9addcd00a;crisp-worker-rig WordPress backdoor - mu-plugin crisp-worker-rig.php
 98bbf22009e31d12e22b966ec85375578ecd046ff67b7427d416df5768042e34;crisp-worker-rig WordPress backdoor - plugin crisp-worker-rig.php / payload core
 b933d5695d2d956ad3eeea9eb38e98fe5e3cf4f482050aa905e247071c56e39e;crisp-worker-rig WordPress backdoor - plugin crisp-worker-rig.php variant
